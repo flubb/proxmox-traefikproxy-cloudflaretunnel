@@ -1,4 +1,4 @@
-ttp:
+http:
   routers:
     uptimekuma:
       rule: "Host(`upt.example.com`)" # Change your domain
